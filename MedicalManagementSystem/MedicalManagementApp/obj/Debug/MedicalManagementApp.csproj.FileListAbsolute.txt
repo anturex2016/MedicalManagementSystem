@@ -1,0 +1,16 @@
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\bin\Debug\MedicalManagementApp.exe.config
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.csprojResolveAssemblyReference.cache
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.mainFrm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Properties.Resources.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.csproj.GenerateResource.Cache
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\bin\Debug\MedicalManagementApp.exe
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\bin\Debug\MedicalManagementApp.pdb
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.exe
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.pdb
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.CategoryForm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.CompanyForm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.productForm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.PurchaseForm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.SellForm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.PurchaseReportForm.resources
+D:\Avb_project\W_projectWork\MedicalManagementApp\MedicalManagementApp\obj\Debug\MedicalManagementApp.Common.SellReportForm.resources
